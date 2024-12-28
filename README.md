@@ -15,7 +15,7 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
 For more information about the BCA department and its projects, please contact:
 
-Department of Computer Applications (BCA) Patrician College of Arts and Science
+## Department of Computer Applications (BCA) Patrician College of Arts and Science
 
 Adyar, Chennai - 600020, Tamil Nadu, India
 
