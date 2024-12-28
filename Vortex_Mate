@@ -1,6 +1,8 @@
-# Vortex Mate
+### Vortex Mate
 
 **Project Lead:** Mukarram Bambot
+
+[GitHub Repository](https://github.com/Mukarrambambot/Vortex_Mate.git)
 
 ## Abstract
 Vortex Mate is an advanced chess game application developed using Unreal Engine with Python and C language. This project aims to provide a sophisticated and interactive chess experience with features such as AI-powered opponents, multiplayer mode, and comprehensive tutorials. The game is designed to cater to both beginners and experienced players, promoting strategic thinking and enhancing the overall gaming experience.
@@ -22,7 +24,7 @@ To install and run Vortex Mate, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/vortex-mate.git
+   git clone https://github.com/Mukarrambambot/Vortex_Mate.git
 
 2. Navigate to the Project Directory:
    ```bash
