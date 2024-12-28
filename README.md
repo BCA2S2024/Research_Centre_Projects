@@ -11,11 +11,16 @@ Abstract: Litter Cam is an innovative project aimed at using computer vision and
 Repository Link: Litter Cam Repository
 
 - Mimosa Energy
+
 Project Lead: Husain
 
 Abstract: Mimosa Energy is a sustainable energy project focused on harnessing renewable energy sources to provide efficient and eco-friendly power solutions. The project explores various methods of energy generation, storage, and distribution to create a reliable and green energy system.
 
 Repository Link: Mimosa Energy Repository
+
+Email: [Husain Gmail Address](hussain.dhinojwala04@gmail.com)
+
+GitHub: [Husain GitHub Profile](https://github.com/HusainAbbas04)
 
 - Home Defence
 Project Lead: Henry
@@ -25,26 +30,32 @@ Abstract: Home Defence is a smart security system designed to protect homes from
 Repository Link: Home Defence Repository
 
 - Vortex Mate
-Project Lead: Mukarram
+Project Lead: Mukarram T Bambot
 
 Abstract: Chess is a comprehensive project that involves the development of a sophisticated chess game application. The project includes features like AI-powered opponent, multiplayer mode, and interactive tutorials to enhance the user experience and promote the strategic game of chess.
 
 Repository Link: Chess Repository
 
-Contributing
+Email: [Mukarram Gmail Address](MukBambot118@gmail.com)
+
+GitHub: [Mukarram GitHub Profile](GitHub.com/MukarramBambot)
+
+## Contributing
+
 We welcome contributions from everyone. If you have a project you would like to add to this repository, please follow the guidelines in the CONTRIBUTING.md file.
 
-License
+## License
+
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
 ### Contact Information
 
 For more information about the BCA department and its projects, please contact:
 
-- Department of Computer Applications (BCA) Patrician College of Arts and Science
+Department of Computer Applications (BCA) Patrician College of Arts and Science
 
 Adyar, Chennai - 600020, Tamil Nadu, India
 
-Phone: +91 78128 66760
+- Phone: +91 78128 66760
 
-Email: bca2shift@gmail.com
+- Email: bca2shift@gmail.com
