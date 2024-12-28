@@ -4,6 +4,7 @@ Welcome to the Research Center Projects repository. This repository contains a l
 # Projects Overview
 
 - Litter Cam
+
 Project Lead: Shalini
 
 Abstract: Litter Cam is an innovative project aimed at using computer vision and AI technologies to identify and penalize littering activities in public places. The system is designed to detect and capture instances of littering, helping to maintain cleaner and more sustainable environments.
@@ -23,6 +24,7 @@ Email: [Husain Gmail Address](hussain.dhinojwala04@gmail.com)
 GitHub: [Husain GitHub Profile](https://github.com/HusainAbbas04)
 
 - Home Defence
+  
 Project Lead: Henry
 
 Abstract: Home Defence is a smart security system designed to protect homes from intruders and other security threats. The system integrates advanced technologies such as motion detection, real-time alerts, and automated response mechanisms to ensure the safety and security of residential properties.
@@ -30,6 +32,7 @@ Abstract: Home Defence is a smart security system designed to protect homes from
 Repository Link: Home Defence Repository
 
 - Vortex Mate
+  
 Project Lead: Mukarram T Bambot
 
 Abstract: Chess is a comprehensive project that involves the development of a sophisticated chess game application. The project includes features like AI-powered opponent, multiplayer mode, and interactive tutorials to enhance the user experience and promote the strategic game of chess.
